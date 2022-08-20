@@ -89,3 +89,8 @@ La distribución del nivel de educación de los padres de estos estudiantes es l
 | Algo de la universidad  | 22,3 |
 | Pregrado                | 22,4 |
 | Maestría                | 6,7  |
+
+## Punto 7
+
+- Se evidencia que el 2,33 de los estudiantes tienen notas superiores a 90 en las 3 asignaturas
+- De estos estudiantes el 55,6 realizaron un curso de preparación para las asignaturas
