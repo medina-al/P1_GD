@@ -75,7 +75,7 @@ Se puede decir que existe una correlación entre los resultados de las 3 materia
 - Analizando los resultados por género en matemáticas se evidencia que la diferencia es muy poca, siendo de 4,72 la diferencia entre el máximo y el mínimo promedio, y con una desviación estándar de 2.34 entre los datos
 - El género que obtuvo el mejor promedio general fue el femino con 69.88, seguido por el no-binario con 69.214
 
-##Punto 6 - Por encima del percentil 85
+## Punto 6 - Por encima del percentil 85
 
 Se evidencia que hubo 113 alumnos por encima del percentil 85 en escritura
 
